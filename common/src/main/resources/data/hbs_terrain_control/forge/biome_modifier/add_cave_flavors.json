@@ -1,0 +1,6 @@
+{
+  "type": "hbs_terrain_control:add_carvers",
+  "biomes": "#minecraft:is_overworld",
+  "carvers": "hbs_terrain_control:cave_flavors",
+  "step": "air"
+}

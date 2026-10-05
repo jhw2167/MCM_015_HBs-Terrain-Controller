@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:add",
+  "argument1": "hbs_terrain_control:overworld/cheese/global_offset",
+  "argument2": {
+    "type": "minecraft:add",
+    "argument1": "hbs_terrain_control:overworld/cheese/depth_band",
+    "argument2": "hbs_terrain_control:overworld/cheese/climate_gate"
+  }
+}

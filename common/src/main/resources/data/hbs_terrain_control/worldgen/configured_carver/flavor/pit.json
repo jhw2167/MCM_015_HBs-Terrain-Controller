@@ -1,0 +1,46 @@
+{
+  "type": "hbs_terrain_control:pit",
+  "config": {
+    "probability": 1.0,
+    "y": {
+      "type": "minecraft:uniform",
+      "min_inclusive": {
+        "absolute": 40
+      },
+      "max_inclusive": {
+        "absolute": 110
+      }
+    },
+    "yScale": 1.0,
+    "lava_level": {
+      "above_bottom": 8
+    },
+    "replaceable": "#minecraft:overworld_carver_replaceables",
+    "debug_settings": {
+      "air_state": {
+        "Name": "minecraft:cave_air"
+      }
+    },
+    "radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 2.0,
+        "max_exclusive": 5.0
+      }
+    },
+    "depth": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 30,
+        "max_inclusive": 80
+      }
+    },
+    "taper": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 0.0,
+        "max_exclusive": 0.4
+      }
+    }
+  }
+}

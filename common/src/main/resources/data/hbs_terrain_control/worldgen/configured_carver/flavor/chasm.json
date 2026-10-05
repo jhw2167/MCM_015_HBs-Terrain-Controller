@@ -1,0 +1,67 @@
+{
+  "type": "minecraft:canyon",
+  "config": {
+    "probability": 1.0,
+    "y": {
+      "type": "minecraft:uniform",
+      "min_inclusive": {
+        "absolute": -30
+      },
+      "max_inclusive": {
+        "absolute": 70
+      }
+    },
+    "yScale": {
+      "type": "minecraft:clamped_normal",
+      "value": {
+        "min": 3.0,
+        "max": 13.5,
+        "mean": 6.0,
+        "deviation": 2.5
+      }
+    },
+    "lava_level": {
+      "above_bottom": 8
+    },
+    "replaceable": "#minecraft:overworld_carver_replaceables",
+    "debug_settings": {
+      "air_state": {
+        "Name": "minecraft:cave_air"
+      }
+    },
+    "vertical_rotation": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": -0.2,
+        "max_exclusive": 0.2
+      }
+    },
+    "shape": {
+      "distance_factor": {
+        "type": "minecraft:uniform",
+        "value": {
+          "min_inclusive": 0.9,
+          "max_exclusive": 1.4
+        }
+      },
+      "thickness": {
+        "type": "minecraft:trapezoid",
+        "value": {
+          "min": 3,
+          "max": 12,
+          "plateau": 3
+        }
+      },
+      "width_smoothness": 3,
+      "horizontal_radius_factor": {
+        "type": "minecraft:uniform",
+        "value": {
+          "min_inclusive": 0.75,
+          "max_exclusive": 1.0
+        }
+      },
+      "vertical_radius_default_factor": 1.0,
+      "vertical_radius_center_factor": 0.0
+    }
+  }
+}
