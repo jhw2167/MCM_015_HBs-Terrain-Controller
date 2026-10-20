@@ -92,6 +92,7 @@ dependencies {
 
     implementation fg.deobf("curse.maven:create-${create_proj_id}:${create_forge_file_id}")
     implementation "curse.maven:terralith-${terralith_proj_id}:${terralith_file_id}"
+    implementation fg.deobf("curse.maven:xaeros-world-map-317780:9067273")
 
 }
 

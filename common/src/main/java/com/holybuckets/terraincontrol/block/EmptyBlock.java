@@ -1,4 +1,4 @@
-package com.holybuckets.template.block;
+package com.holybuckets.terraincontrol.block;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.BlockGetter;

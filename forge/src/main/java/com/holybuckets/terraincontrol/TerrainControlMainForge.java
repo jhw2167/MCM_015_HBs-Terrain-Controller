@@ -1,6 +1,6 @@
-package com.holybuckets.template;
+package com.holybuckets.terraincontrol;
 
-import com.holybuckets.template.client.CommonClassClient;
+import com.holybuckets.terraincontrol.client.CommonClassClient;
 import com.holybuckets.terraincontrol.worldgen.ForgeWorldgen;
 import net.blay09.mods.balm.api.Balm;
 import net.blay09.mods.balm.api.client.BalmClient;
@@ -10,9 +10,9 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 @Mod( Constants.MOD_ID)
-public class TemplateMain {
+public class TerrainControlMainForge {
 
-    public TemplateMain() {
+    public TerrainControlMainForge() {
         super();
         ForgeWorldgen.register(FMLJavaModLoadingContext.get().getModEventBus());
         Balm.initialize(Constants.MOD_ID, CommonClass::init);

@@ -1,13 +1,13 @@
-package com.holybuckets.template;
+package com.holybuckets.terraincontrol;
 
-import com.holybuckets.template.client.CommonClassClient;
-import com.holybuckets.template.client.IBewlrRenderer;
+import com.holybuckets.terraincontrol.client.CommonClassClient;
+import com.holybuckets.terraincontrol.client.IBewlrRenderer;
 import net.minecraft.client.renderer.BlockEntityWithoutLevelRenderer;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
 
 @OnlyIn(Dist.CLIENT)
-public class TemplateMainClient {
+public class TerrainControlMainForgeClient {
 
 
     public static void clientInitializeForge() {

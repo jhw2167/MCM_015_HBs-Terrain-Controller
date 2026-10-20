@@ -1,6 +1,6 @@
-package com.holybuckets.template.block;
+package com.holybuckets.terraincontrol.block;
 
-import com.holybuckets.template.Constants;
+import com.holybuckets.terraincontrol.Constants;
 import net.blay09.mods.balm.api.Balm;
 import net.blay09.mods.balm.api.block.BalmBlocks;
 import net.minecraft.resources.ResourceLocation;

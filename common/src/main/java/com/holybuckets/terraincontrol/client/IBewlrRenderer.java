@@ -1,4 +1,4 @@
-package com.holybuckets.template.client;
+package com.holybuckets.terraincontrol.client;
 
 import net.minecraft.client.renderer.BlockEntityWithoutLevelRenderer;
 

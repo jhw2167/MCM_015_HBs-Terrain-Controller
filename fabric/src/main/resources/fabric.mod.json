@@ -16,10 +16,10 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.holybuckets.template.TemplateMain"
+            "com.holybuckets.terraincontrol.TerrainControlMainFabric"
         ],
         "client": [
-            "com.holybuckets.template.TemplateMainClient"
+            "com.holybuckets.terraincontrol.TerrainControlMainFabricClient"
         ]
     },
     "mixins": [

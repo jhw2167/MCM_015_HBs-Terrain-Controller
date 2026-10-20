@@ -1,7 +1,7 @@
-package com.holybuckets.template.platform;
+package com.holybuckets.terraincontrol.platform;
 
-import com.holybuckets.template.Constants;
-import com.holybuckets.template.platform.services.IPlatformHelper;
+import com.holybuckets.terraincontrol.Constants;
+import com.holybuckets.terraincontrol.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

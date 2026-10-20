@@ -1,4 +1,4 @@
-package com.holybuckets.template.mixin;
+package com.holybuckets.terraincontrol.mixin;
 
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
