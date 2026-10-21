@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:end_highlands",
+    "minecraft:end_midlands",
+    "terralith:amethyst_canyon",
+    "terralith:amethyst_rainforest",
+    "terralith:mirage_isles",
+    "terralith:moonlight_grove",
+    "terralith:moonlight_valley",
+    "terralith:skylands",
+    "terralith:skylands_autumn",
+    "terralith:skylands_spring",
+    "terralith:skylands_summer",
+    "terralith:skylands_winter"
+  ]
+}

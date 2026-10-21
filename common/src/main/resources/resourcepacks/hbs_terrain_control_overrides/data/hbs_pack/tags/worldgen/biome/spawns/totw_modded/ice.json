@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:frozen_peaks",
+    "minecraft:ice_spikes",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_slopes",
+    "minecraft:snowy_taiga",
+    "terralith:alpha_islands_winter",
+    "terralith:cold_shrubland",
+    "terralith:frozen_cliffs",
+    "terralith:glacial_chasm",
+    "terralith:ice_marsh",
+    "terralith:skylands_winter",
+    "terralith:snowy_badlands",
+    "terralith:snowy_shield",
+    "terralith:wintry_lowlands"
+  ]
+}

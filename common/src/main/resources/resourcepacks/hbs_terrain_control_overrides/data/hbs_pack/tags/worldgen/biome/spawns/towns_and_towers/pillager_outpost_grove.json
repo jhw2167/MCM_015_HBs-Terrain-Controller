@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:grove",
+    "terralith:alpine_grove",
+    "terralith:siberian_grove"
+  ]
+}

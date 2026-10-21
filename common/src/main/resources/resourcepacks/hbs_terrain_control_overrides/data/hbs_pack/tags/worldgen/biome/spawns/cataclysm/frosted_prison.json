@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snowy_plains",
+    "minecraft:snowy_slopes",
+    "minecraft:snowy_taiga",
+    "terralith:alpine_grove",
+    "terralith:snowy_badlands",
+    "terralith:snowy_cherry_grove"
+  ]
+}

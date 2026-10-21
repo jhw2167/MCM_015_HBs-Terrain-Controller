@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:badlands",
+    "minecraft:cherry_grove",
+    "minecraft:eroded_badlands",
+    "minecraft:frozen_peaks",
+    "minecraft:jagged_peaks",
+    "minecraft:meadow",
+    "minecraft:savanna_plateau",
+    "minecraft:snowy_slopes",
+    "minecraft:stony_peaks",
+    "minecraft:stony_shore",
+    "minecraft:windswept_forest",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_savanna",
+    "minecraft:wooded_badlands",
+    "terralith:bryce_canyon",
+    "terralith:caldera",
+    "terralith:cloud_forest",
+    "terralith:emerald_peaks",
+    "terralith:fractured_savanna",
+    "terralith:haze_mountain",
+    "terralith:jungle_mountains",
+    "terralith:painted_mountains",
+    "terralith:rocky_mountains",
+    "terralith:savanna_badlands",
+    "terralith:scarlet_mountains",
+    "terralith:snowy_cherry_grove",
+    "terralith:volcanic_peaks"
+  ]
+}

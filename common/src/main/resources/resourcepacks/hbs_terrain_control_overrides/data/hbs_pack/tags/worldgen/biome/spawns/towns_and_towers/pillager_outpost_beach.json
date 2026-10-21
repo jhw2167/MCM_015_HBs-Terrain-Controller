@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:beach",
+    "terralith:gravel_beach"
+  ]
+}

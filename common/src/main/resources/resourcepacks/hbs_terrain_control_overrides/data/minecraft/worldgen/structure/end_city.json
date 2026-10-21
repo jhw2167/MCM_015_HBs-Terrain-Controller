@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:end_city",
+  "biomes": "#hbs_pack:spawns/minecraft/end_city",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

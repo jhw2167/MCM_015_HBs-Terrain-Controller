@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:mul",
+    "argument1": "hbs_terrain_control:overworld/lift/land_mask",
+    "argument2": {
+      "type": "minecraft:add",
+      "argument1": {
+        "type": "minecraft:mul",
+        "argument1": "hbs_terrain_control:overworld/lift/general_lift",
+        "argument2": "hbs_terrain_control:overworld/lift/river_mask"
+      },
+      "argument2": {
+        "type": "minecraft:mul",
+        "argument1": "hbs_terrain_control:overworld/lift/climate_lift",
+        "argument2": "hbs_terrain_control:overworld/lift/climate_mask"
+      }
+    }
+  }
+}

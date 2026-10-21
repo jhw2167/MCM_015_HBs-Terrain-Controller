@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:taiga",
+    "terralith:cloud_forest",
+    "terralith:forested_highlands",
+    "terralith:lavender_forest",
+    "terralith:lavender_valley",
+    "terralith:moonlight_grove",
+    "terralith:moonlight_valley",
+    "terralith:rocky_shrubland",
+    "terralith:shrubland"
+  ]
+}

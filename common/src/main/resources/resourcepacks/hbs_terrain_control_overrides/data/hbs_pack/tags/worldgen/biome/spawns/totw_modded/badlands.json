@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:badlands",
+    "minecraft:eroded_badlands",
+    "minecraft:wooded_badlands",
+    "terralith:ancient_sands",
+    "terralith:bryce_canyon",
+    "terralith:desert_canyon",
+    "terralith:painted_mountains",
+    "terralith:savanna_badlands",
+    "terralith:warped_mesa",
+    "terralith:white_mesa",
+    "terralith:yellowstone"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:desert_pyramid",
+  "biomes": "#hbs_pack:spawns/minecraft/desert_pyramid",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

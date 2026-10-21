@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wooded_badlands",
+    "terralith:bryce_canyon",
+    "terralith:painted_mountains"
+  ]
+}

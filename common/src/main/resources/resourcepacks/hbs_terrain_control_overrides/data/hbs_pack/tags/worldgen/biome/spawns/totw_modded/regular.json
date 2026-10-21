@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "terralith:blooming_plateau",
+    "terralith:blooming_valley",
+    "terralith:brushland",
+    "terralith:forested_highlands",
+    "terralith:highlands",
+    "terralith:lavender_valley",
+    "terralith:lush_valley",
+    "terralith:moonlight_valley",
+    "terralith:sakura_valley",
+    "terralith:shield",
+    "terralith:shield_clearing",
+    "terralith:shrubland",
+    "terralith:steppe",
+    "terralith:temperate_highlands",
+    "terralith:valley_clearing",
+    "terralith:yosemite_lowlands"
+  ]
+}

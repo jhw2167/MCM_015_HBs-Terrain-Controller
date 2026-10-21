@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:jungle",
+    "terralith:amethyst_rainforest",
+    "terralith:rocky_jungle"
+  ]
+}

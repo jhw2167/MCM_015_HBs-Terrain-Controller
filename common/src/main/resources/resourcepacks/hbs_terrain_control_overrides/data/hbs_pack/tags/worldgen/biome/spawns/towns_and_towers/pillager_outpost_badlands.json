@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:badlands",
+    "terralith:red_oasis",
+    "terralith:snowy_badlands"
+  ]
+}

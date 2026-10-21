@@ -167,7 +167,13 @@ subprojects {
                 "foundation_version": project.foundation_version,
                 "foundation_min_version": project.foundation_min_version,
                 "create_version": project.create_version,
-                "terralith_version": project.terralith_version
+                "terralith_version": project.terralith_version,
+                "towns_and_towers_version": project.towns_and_towers_version,
+                "dungeons_and_taverns_version": project.dungeons_and_taverns_version,
+                "smallbiometowers_version": project.smallbiometowers_version,
+                "totw_modded_version": project.totw_modded_version,
+                "cataclysm_version": project.cataclysm_version,
+                "mowziesmobs_version": project.mowziesmobs_version
         ]
 
         filesMatching(['pack.mcmeta', 'fabric.mod.json', 'META-INF/mods.toml', '*.mixins.json']) {

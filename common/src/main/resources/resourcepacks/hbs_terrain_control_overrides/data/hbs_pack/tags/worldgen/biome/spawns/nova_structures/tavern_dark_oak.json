@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dark_forest",
+    "minecraft:deep_dark",
+    "terralith:ashen_savanna",
+    "terralith:gravel_desert",
+    "terralith:mirage_isles"
+  ]
+}

@@ -12,6 +12,8 @@ HIGH_EROSION_BIOME = "minecraft:savanna"
 HUMID_BAND = [0.1, 0.3]
 HUMID_BIOME = "terralith:shrubland"
 MIN_SPLIT_WIDTH = 0.5
+LUSH_CAVES = "minecraft:lush_caves"
+LUSH_TEMPERATURE = [0.0, 0.2]
 
 
 def load_dimension(source):
@@ -57,8 +59,14 @@ def split_entry(entry):
 def transform(dimension):
     biomes = dimension["generator"]["biome_source"]["biomes"]
     result = []
-    stats = {"repointed_humid": 0, "split": 0, "added": 0}
+    stats = {"repointed_humid": 0, "split": 0, "added": 0, "lush_restricted": 0}
     for entry in biomes:
+        if entry["biome"] == LUSH_CAVES:
+            params = dict(entry["parameters"])
+            params["temperature"] = list(LUSH_TEMPERATURE)
+            result.append({"parameters": params, "biome": LUSH_CAVES})
+            stats["lush_restricted"] += 1
+            continue
         if entry["biome"] != TARGET:
             result.append(entry)
             continue

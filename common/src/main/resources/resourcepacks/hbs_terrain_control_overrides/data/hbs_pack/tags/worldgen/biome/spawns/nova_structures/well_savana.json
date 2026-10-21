@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna",
+    "terralith:ashen_savanna",
+    "terralith:brushland",
+    "terralith:fractured_savanna",
+    "terralith:sakura_grove",
+    "terralith:sakura_valley",
+    "terralith:savanna_badlands",
+    "terralith:savanna_slopes",
+    "terralith:shrubland"
+  ]
+}

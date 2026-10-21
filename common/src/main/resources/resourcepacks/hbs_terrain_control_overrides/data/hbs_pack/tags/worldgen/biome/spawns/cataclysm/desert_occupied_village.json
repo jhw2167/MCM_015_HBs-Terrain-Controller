@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:desert",
+    "minecraft:eroded_badlands",
+    "terralith:ancient_sands",
+    "terralith:caldera",
+    "terralith:desert_spires"
+  ]
+}

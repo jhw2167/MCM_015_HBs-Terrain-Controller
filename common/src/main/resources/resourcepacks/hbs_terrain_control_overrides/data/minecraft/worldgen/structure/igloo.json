@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:igloo",
+  "biomes": "#hbs_pack:spawns/minecraft/igloo",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

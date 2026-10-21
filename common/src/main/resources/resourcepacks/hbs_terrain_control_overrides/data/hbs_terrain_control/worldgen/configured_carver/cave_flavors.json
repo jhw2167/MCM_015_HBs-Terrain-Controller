@@ -1,0 +1,29 @@
+{
+  "type": "hbs_terrain_control:weighted_cave",
+  "config": {
+    "probability": 0.0,
+    "region_size_chunks": 16,
+    "flavors": [
+      {
+        "data": "hbs_terrain_control:flavor/normal",
+        "weight": 50
+      },
+      {
+        "data": "hbs_terrain_control:flavor/tight",
+        "weight": 20
+      },
+      {
+        "data": "hbs_terrain_control:flavor/wide",
+        "weight": 20
+      },
+      {
+        "data": "hbs_terrain_control:flavor/chasm",
+        "weight": 6
+      },
+      {
+        "data": "hbs_terrain_control:flavor/pit",
+        "weight": 4
+      }
+    ]
+  }
+}

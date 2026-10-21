@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "terralith:alpine_grove",
+    "terralith:birch_taiga",
+    "terralith:shield",
+    "terralith:siberian_grove",
+    "terralith:siberian_taiga",
+    "terralith:snowy_maple_forest",
+    "terralith:snowy_shield",
+    "terralith:wintry_forest"
+  ]
+}

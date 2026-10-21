@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:deep_lukewarm_ocean",
+    "terralith:alpha_islands",
+    "terralith:mirage_isles",
+    "terralith:warm_river"
+  ]
+}

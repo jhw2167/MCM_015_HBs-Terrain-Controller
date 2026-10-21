@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:savanna_plateau",
+    "terralith:savanna_badlands",
+    "terralith:white_mesa"
+  ]
+}

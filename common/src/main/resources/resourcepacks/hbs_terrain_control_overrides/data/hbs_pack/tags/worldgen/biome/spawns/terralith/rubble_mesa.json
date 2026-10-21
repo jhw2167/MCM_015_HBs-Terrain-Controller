@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:badlands",
+    "minecraft:eroded_badlands",
+    "minecraft:wooded_badlands",
+    "terralith:bryce_canyon",
+    "terralith:painted_mountains",
+    "terralith:red_oasis",
+    "terralith:savanna_badlands",
+    "terralith:savanna_slopes",
+    "terralith:white_mesa"
+  ]
+}

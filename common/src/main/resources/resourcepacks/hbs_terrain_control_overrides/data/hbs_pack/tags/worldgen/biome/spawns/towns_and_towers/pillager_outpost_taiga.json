@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:taiga",
+    "terralith:alpine_highlands",
+    "terralith:lush_valley",
+    "terralith:shield",
+    "terralith:shield_clearing",
+    "terralith:yosemite_lowlands"
+  ]
+}

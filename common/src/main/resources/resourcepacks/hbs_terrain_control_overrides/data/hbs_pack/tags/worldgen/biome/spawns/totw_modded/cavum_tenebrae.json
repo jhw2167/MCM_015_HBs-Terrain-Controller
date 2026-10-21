@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "terralith:alpine_highlands",
+    "terralith:amethyst_canyon",
+    "terralith:ashen_savanna",
+    "terralith:basalt_cliffs",
+    "terralith:caldera",
+    "terralith:emerald_peaks",
+    "terralith:granite_cliffs",
+    "terralith:haze_mountain",
+    "terralith:highlands",
+    "terralith:mountain_steppe",
+    "terralith:painted_mountains",
+    "terralith:rocky_mountains",
+    "terralith:scarlet_mountains",
+    "terralith:stony_spires",
+    "terralith:temperate_highlands",
+    "terralith:volcanic_crater",
+    "terralith:volcanic_peaks",
+    "terralith:white_cliffs",
+    "terralith:windswept_spires",
+    "terralith:yosemite_cliffs"
+  ]
+}

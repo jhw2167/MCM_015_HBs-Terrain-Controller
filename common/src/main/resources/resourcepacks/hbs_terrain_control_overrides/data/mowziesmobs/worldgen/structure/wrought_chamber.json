@@ -1,0 +1,7 @@
+{
+  "type": "mowziesmobs:wrought_chamber",
+  "biomes": "#hbs_pack:spawns/mowziesmobs/wrought_chamber",
+  "spawn_overrides": {},
+  "step": "surface_structures",
+  "terrain_adaptation": "none"
+}
