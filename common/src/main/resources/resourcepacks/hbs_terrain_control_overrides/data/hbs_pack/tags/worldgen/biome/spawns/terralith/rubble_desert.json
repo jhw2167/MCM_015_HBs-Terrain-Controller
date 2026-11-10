@@ -1,9 +1,18 @@
 {
   "replace": false,
   "values": [
+    "minecraft:beach",
     "minecraft:desert",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
     "terralith:ancient_sands",
+    "terralith:ashen_savanna",
+    "terralith:desert_canyon",
     "terralith:desert_oasis",
-    "terralith:red_oasis"
+    "terralith:desert_spires",
+    "terralith:lush_desert",
+    "terralith:red_oasis",
+    "terralith:sandstone_valley",
+    "terralith:steppe"
   ]
 }

@@ -1,10 +1,6 @@
 package com.holybuckets.terraincontrol;
 
 import com.holybuckets.foundation.event.BalmEventRegister;
-import com.holybuckets.terraincontrol.block.ModBlocks;
-import com.holybuckets.terraincontrol.block.be.ModBlockEntities;
-import com.holybuckets.terraincontrol.item.ModItems;
-import com.holybuckets.terraincontrol.menu.ModMenus;
 import com.holybuckets.terraincontrol.platform.Services;
 import net.blay09.mods.balm.api.Balm;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -34,10 +30,7 @@ public class CommonClass {
         TerrainControlMain.INSTANCE = new TerrainControlMain();
         BalmEventRegister.registerEvents();
         BalmEventRegister.registerCommands();
-        ModBlocks.initialize(Balm.getBlocks());
-        ModBlockEntities.initialize(Balm.getBlockEntities());
-        ModItems.initialize(Balm.getItems());
-        ModMenus.initialize(Balm.getMenus());
+
         
         isInitialized = true;
     }

@@ -5,36 +5,14 @@
     "spline": {
       "coordinate": "hbs_terrain_control:overworld/continents_raw",
       "points": [
-        {
-          "location": -1.2,
-          "value": -1.2,
-          "derivative": 1.0
-        },
-        {
-          "location": -0.7,
-          "value": -0.7,
-          "derivative": 1.5
-        },
-        {
-          "location": -0.5,
-          "value": -0.3,
-          "derivative": 1.4
-        },
-        {
-          "location": -0.3,
-          "value": -0.12,
-          "derivative": 0.75
-        },
-        {
-          "location": 0.0,
-          "value": 0.08,
-          "derivative": 0.8
-        },
-        {
-          "location": 1.0,
-          "value": 1.0,
-          "derivative": 0.92
-        }
+        { "location": -1.2,  "value": -1.2,  "derivative": 0.25 },
+        { "location": -0.55, "value": -0.95, "derivative": 0.45 },
+        { "location": -0.3,  "value": -0.6,  "derivative": 1.7  },
+        { "location": -0.18, "value": -0.34, "derivative": 1.9  },
+        { "location": -0.08, "value": -0.15, "derivative": 1.3  },
+        { "location": 0.02,  "value": -0.02, "derivative": 0.9  },
+        { "location": 0.3,   "value": 0.2,   "derivative": 0.75 },
+        { "location": 1.0,   "value": 1.0,   "derivative": 0.95 }
       ]
     }
   }

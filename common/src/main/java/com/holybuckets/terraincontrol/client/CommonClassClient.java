@@ -1,7 +1,5 @@
 package com.holybuckets.terraincontrol.client;
 
-import com.holybuckets.terraincontrol.client.screen.ModScreens;
-import com.holybuckets.terraincontrol.item.ModItems;
 import com.holybuckets.foundation.client.ClientBalmEventRegister;
 import com.holybuckets.foundation.client.ClientEventRegistrar;
 import net.blay09.mods.balm.api.client.BalmClient;
@@ -12,9 +10,6 @@ public class CommonClassClient {
     public static void initClient() {
         ClientEventRegistrar registrar = ClientEventRegistrar.getInstance();
         ClientBalmEventRegister.registerEvents();
-        ModRenderers.clientInitialize(BalmClient.getRenderers());
-        ModScreens.clientInitialize(BalmClient.getScreens());
-        //ModItems.clientInitialize();
     }
 
     /**

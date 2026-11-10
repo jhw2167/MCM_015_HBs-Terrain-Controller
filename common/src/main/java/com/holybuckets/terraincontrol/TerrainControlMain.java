@@ -46,7 +46,7 @@ public class TerrainControlMain {
     }
 
     private void onServerStarting(ServerStartingEvent e) {
-        CONFIG = Balm.getConfig().getActiveConfig(TemplateConfig.class);
+        //CONFIG = Balm.getConfig().getActiveConfig(TemplateConfig.class);
         //this.DEV_MODE = CONFIG.devMode;
         this.DEV_MODE = false;
     }

@@ -1,9 +1,13 @@
 {
   "replace": false,
   "values": [
+    "minecraft:beach",
+    "minecraft:snowy_beach",
+    "minecraft:stony_shore",
     "terralith:alpha_islands",
     "terralith:alpha_islands_winter",
     "terralith:gravel_beach",
-    "terralith:mirage_isles"
+    "terralith:mirage_isles",
+    "terralith:white_cliffs"
   ]
 }

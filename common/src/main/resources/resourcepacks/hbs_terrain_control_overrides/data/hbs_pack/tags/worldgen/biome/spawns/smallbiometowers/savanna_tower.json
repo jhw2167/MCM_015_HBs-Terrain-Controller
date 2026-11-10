@@ -1,14 +1,21 @@
 {
   "replace": false,
   "values": [
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna",
     "terralith:ashen_savanna",
+    "terralith:basalt_cliffs",
     "terralith:brushland",
     "terralith:fractured_savanna",
+    "terralith:granite_cliffs",
     "terralith:mountain_steppe",
     "terralith:rocky_shrubland",
     "terralith:savanna_badlands",
     "terralith:savanna_slopes",
     "terralith:shrubland",
-    "terralith:steppe"
+    "terralith:steppe",
+    "terralith:volcanic_crater",
+    "terralith:volcanic_peaks"
   ]
 }

@@ -2,7 +2,9 @@
   "replace": false,
   "values": [
     "minecraft:frozen_peaks",
+    "minecraft:grove",
     "minecraft:ice_spikes",
+    "minecraft:snowy_beach",
     "minecraft:snowy_plains",
     "minecraft:snowy_slopes",
     "minecraft:snowy_taiga",
@@ -11,6 +13,8 @@
     "terralith:frozen_cliffs",
     "terralith:glacial_chasm",
     "terralith:ice_marsh",
+    "terralith:siberian_grove",
+    "terralith:siberian_taiga",
     "terralith:skylands_winter",
     "terralith:snowy_badlands",
     "terralith:snowy_shield",

@@ -1,14 +1,32 @@
 {
   "replace": false,
   "values": [
+    "minecraft:birch_forest",
+    "minecraft:cherry_grove",
+    "minecraft:dark_forest",
+    "minecraft:flower_forest",
+    "minecraft:forest",
+    "minecraft:meadow",
+    "minecraft:mushroom_fields",
+    "minecraft:old_growth_birch_forest",
+    "minecraft:plains",
+    "minecraft:stony_peaks",
+    "minecraft:sunflower_plains",
     "terralith:blooming_plateau",
     "terralith:blooming_valley",
+    "terralith:haze_mountain",
+    "terralith:highlands",
+    "terralith:lavender_forest",
     "terralith:lavender_valley",
     "terralith:lush_valley",
     "terralith:moonlight_valley",
+    "terralith:sakura_grove",
     "terralith:sakura_valley",
     "terralith:shield_clearing",
+    "terralith:stony_spires",
+    "terralith:temperate_highlands",
     "terralith:valley_clearing",
+    "terralith:yosemite_cliffs",
     "terralith:yosemite_lowlands"
   ]
 }
