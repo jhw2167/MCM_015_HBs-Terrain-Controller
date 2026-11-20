@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "hbs_terrain_control:wild_waystone",
+      "weight": 1
+    },
+    {
+      "structure": "hbs_terrain_control:wild_waystone_desert",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 25,
+    "separation": 10,
+    "salt": 736104829
+  }
+}

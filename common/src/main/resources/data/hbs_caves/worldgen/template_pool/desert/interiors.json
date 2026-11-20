@@ -1,0 +1,32 @@
+{
+  "fallback": "hbs_caves:desert/gate_cap",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:desert/interior_b_2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:desert/interior_a2_7",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:desert/interior_a3_0",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

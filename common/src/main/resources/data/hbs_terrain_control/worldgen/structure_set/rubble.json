@@ -1,0 +1,38 @@
+{
+  "structures": [
+    {
+      "structure": "hbs_terrain_control:rubble_badlands",
+      "weight": 1
+    },
+    {
+      "structure": "hbs_terrain_control:rubble_desert",
+      "weight": 1
+    },
+    {
+      "structure": "hbs_terrain_control:rubble_jungle",
+      "weight": 1
+    },
+    {
+      "structure": "hbs_terrain_control:rubble_forest",
+      "weight": 1
+    },
+    {
+      "structure": "hbs_terrain_control:rubble_taiga",
+      "weight": 1
+    },
+    {
+      "structure": "hbs_terrain_control:rubble_mountain",
+      "weight": 1
+    },
+    {
+      "structure": "hbs_terrain_control:rubble_volcanic",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 8,
+    "salt": 418230557
+  }
+}

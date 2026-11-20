@@ -1,0 +1,59 @@
+{
+  "fallback": "hbs_caves:mountain/gate_cap",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:mountain/interior_1_10",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:mountain/interior_2_22",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:mountain/interior_3_8",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:plains/interior_1_7",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:plains/interior_2_2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:plains/interior_3_4",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

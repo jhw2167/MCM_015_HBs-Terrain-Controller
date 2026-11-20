@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bamboo_jungle",
+    "minecraft:jungle",
+    "minecraft:mangrove_swamp",
+    "minecraft:sparse_jungle",
+    {
+      "id": "terralith:amethyst_rainforest",
+      "required": false
+    },
+    {
+      "id": "terralith:jungle_mountains",
+      "required": false
+    },
+    {
+      "id": "terralith:rocky_jungle",
+      "required": false
+    },
+    {
+      "id": "terralith:stony_spires",
+      "required": false
+    },
+    {
+      "id": "terralith:tropical_jungle",
+      "required": false
+    }
+  ]
+}

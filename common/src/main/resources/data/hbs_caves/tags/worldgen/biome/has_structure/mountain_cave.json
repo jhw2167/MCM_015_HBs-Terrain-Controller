@@ -1,0 +1,109 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:meadow",
+    "minecraft:grove",
+    "minecraft:cherry_grove",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_forest",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:snowy_slopes",
+    "minecraft:stony_peaks",
+    {
+      "id": "terralith:alpine_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:alpine_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:arid_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:blooming_plateau",
+      "required": false
+    },
+    {
+      "id": "terralith:emerald_peaks",
+      "required": false
+    },
+    {
+      "id": "terralith:forested_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:frozen_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:glacial_chasm",
+      "required": false
+    },
+    {
+      "id": "terralith:granite_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:haze_mountain",
+      "required": false
+    },
+    {
+      "id": "terralith:highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:mountain_steppe",
+      "required": false
+    },
+    {
+      "id": "terralith:rocky_mountains",
+      "required": false
+    },
+    {
+      "id": "terralith:scarlet_mountains",
+      "required": false
+    },
+    {
+      "id": "terralith:shield",
+      "required": false
+    },
+    {
+      "id": "terralith:shield_clearing",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_cherry_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_shield",
+      "required": false
+    },
+    {
+      "id": "terralith:steppe",
+      "required": false
+    },
+    {
+      "id": "terralith:stony_spires",
+      "required": false
+    },
+    {
+      "id": "terralith:temperate_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:white_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:windswept_spires",
+      "required": false
+    },
+    {
+      "id": "terralith:yosemite_cliffs",
+      "required": false
+    }
+  ]
+}

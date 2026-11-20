@@ -166,6 +166,8 @@ subprojects {
                 "balm_version_range": project.balm_version_range,
                 "foundation_version": project.foundation_version,
                 "foundation_min_version": project.foundation_min_version,
+                "oreclusters_version": project.oreclusters_version,
+                "oreclusters_min_version": project.oreclusters_min_version,
                 "create_version": project.create_version,
                 "terralith_version": project.terralith_version,
                 "towns_and_towers_version": project.towns_and_towers_version,

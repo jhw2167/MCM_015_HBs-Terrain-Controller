@@ -1,0 +1,10 @@
+{
+  "type": "forge:remove_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "waystones:waystone",
+    "waystones:mossy_waystone",
+    "waystones:sandy_waystone"
+  ],
+  "steps": "vegetal_decoration"
+}

@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "hbs_caves:badlands_cave_1",
+      "weight": 1
+    },
+    {
+      "structure": "hbs_caves:badlands_cave_2",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 16,
+    "salt": 418207734
+  }
+}

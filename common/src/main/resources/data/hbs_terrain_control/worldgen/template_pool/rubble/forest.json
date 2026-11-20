@@ -1,0 +1,59 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:features/cave_rubble/wooden_rubble_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:features/cave_rubble/wooden_rubble_2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:features/cave_rubble/cave_rubble_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:features/cave_rubble/cave_rubble_2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:features/cave_rubble/burried_rubble_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "hbs_caves:features/cave_rubble/cobweb_rubble_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

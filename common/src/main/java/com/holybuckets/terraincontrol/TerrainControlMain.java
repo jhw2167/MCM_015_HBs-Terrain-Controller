@@ -3,8 +3,7 @@ package com.holybuckets.terraincontrol;
 
 import com.holybuckets.foundation.event.EventRegistrar;
 import com.holybuckets.terraincontrol.config.TemplateConfig;
-import net.blay09.mods.balm.api.Balm;
-import net.blay09.mods.balm.api.event.EventPriority;
+import com.holybuckets.terraincontrol.core.CustomCaveFeatureManager;
 import net.blay09.mods.balm.api.event.server.ServerStartingEvent;
 
 /**
@@ -38,6 +37,7 @@ public class TerrainControlMain {
         //Events
         EventRegistrar registrar = EventRegistrar.getInstance();
         //ChallengeBlockBehavior.init(registrar);
+        CustomCaveFeatureManager.init(registrar);
 
 
         //register local events

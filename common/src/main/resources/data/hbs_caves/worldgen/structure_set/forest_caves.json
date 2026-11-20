@@ -1,0 +1,22 @@
+{
+  "structures": [
+    {
+      "structure": "hbs_caves:forest_cave_1",
+      "weight": 1
+    },
+    {
+      "structure": "hbs_caves:forest_cave_2",
+      "weight": 1
+    },
+    {
+      "structure": "hbs_caves:forest_cave_3",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 36,
+    "separation": 18,
+    "salt": 264118907
+  }
+}

@@ -44,6 +44,11 @@ dependencies {
     implementation ("com.holybuckets.foundation:HBs_Foundation-common-${minecraft_version}:${foundation_version}") {
         changing = true
     }
+
+    implementation ("com.holybuckets.orecluster:HBs_Ore_Cluster_and_Regen-common-${minecraft_version}:${oreclusters_version}") {
+        changing = true
+        transitive = false
+    }
 }
 
 publishing {

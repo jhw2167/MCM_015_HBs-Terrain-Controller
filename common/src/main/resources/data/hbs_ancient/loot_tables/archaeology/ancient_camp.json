@@ -1,0 +1,35 @@
+{
+ "type": "minecraft:archaeology",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:flint",
+     "weight": 4
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:arrow",
+     "weight": 3
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:bone",
+     "weight": 3
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:stick",
+     "weight": 2
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:string",
+     "weight": 1
+    }
+   ]
+  }
+ ]
+}

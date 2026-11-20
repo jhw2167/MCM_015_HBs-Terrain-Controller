@@ -8,6 +8,7 @@ out1.txt
 .template-spec.md
 *.mp4
 .idea/*/
+tools/*
 
 # From https://github.com/github/gitignore/blob/master/Gradle.gitignore
 .gradle
