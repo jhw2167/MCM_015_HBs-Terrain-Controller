@@ -33,7 +33,8 @@
         "java": ">=17",
         "balm-fabric": ">=${balm_version}",
         "hbs_foundation": ">=${foundation_min_version}",
-        "terralith": ">=${terralith_version}"
+        "terralith": ">=${terralith_version}",
+        "hbs_boomseed": "*"
     },
     "suggests": {
         "create": ">=${create_version}",

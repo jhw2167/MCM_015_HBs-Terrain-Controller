@@ -2,6 +2,7 @@ package com.holybuckets.terraincontrol;
 
 import com.holybuckets.foundation.event.BalmEventRegister;
 import com.holybuckets.terraincontrol.platform.Services;
+import com.holybuckets.terraincontrol.worldgen.TerrainControlWorldgen;
 import net.blay09.mods.balm.api.Balm;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.item.Items;
@@ -30,6 +31,7 @@ public class CommonClass {
         TerrainControlMain.INSTANCE = new TerrainControlMain();
         BalmEventRegister.registerEvents();
         BalmEventRegister.registerCommands();
+        TerrainControlWorldgen.initialize(Balm.getWorldGen());
 
         
         isInitialized = true;

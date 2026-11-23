@@ -43,6 +43,12 @@ versionRange="[${oreclusters_min_version},)"
 ordering="AFTER"
 side="BOTH"
 [[dependencies.${mod_id}]]
+modId="hbs_boomseed"
+mandatory=true
+versionRange="[0,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.${mod_id}]]
 modId="create"
 mandatory=false
 versionRange="[${create_version},)"
